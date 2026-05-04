@@ -76,7 +76,7 @@ export const projects = [
     des: "A full-stack AI-powered SaaS application built with TypeScript, featuring intelligent automation and modern UI.",
     img: "/p1.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://github.com/arpitpachoriya1672005-prog/archmind.ai",
+    link: "https://archmind-ai-seven.vercel.app/",
   },
   {
     id: 2,
@@ -84,7 +84,7 @@ export const projects = [
     des: "An AI-driven travel planning platform with intelligent recommendations, itinerary generation, and real-time data.",
     img: "/p2.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/arpitpachoriya1672005-prog/musafir.ai",
+    link: "https://travelaround-ai.onrender.com/",
   },
   {
     id: 3,
@@ -100,7 +100,7 @@ export const projects = [
     des: "An AI-powered legal assistance platform built with TypeScript for document analysis and case management.",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/arpitpachoriya1672005-prog/lawasisst-ai",
+    link: "https://law-assist-ai-bqbq.vercel.app/",
   },
 ];
 
